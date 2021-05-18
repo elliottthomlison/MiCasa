@@ -5,8 +5,8 @@ import './App.css';
 import CityImagesList from "./components/CityImagesList.js";
 import BackgroundHeader from "./components/BackgroundHeader.js";
 //import Favourites from "./components/favourites.js";
-//import Footer from "./components/Footer.js";
-import Home from "./components/home.js";
+import Footer from "./components/Footer.js";
+import Home from "./components/Home.js";
 import Map from "./components/Map/Map.js";
 import NavBar from "./components/Navbar";
 
@@ -64,7 +64,7 @@ class App extends Component {
     </Router>
     {/* <Infobox/> */}
     <CityImagesList />
-    {/* <Footer /> */}
+    <Footer />
     </div>
     );
   }

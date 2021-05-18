@@ -7,7 +7,7 @@ body .bbbootstrap {
 .bbbootstrap {
   padding: 40px;
   /*create space between top + bottom */
-  margin-bottom: 0;
+  margin-bottom: 100px;
   color: #fff;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
   background-color: #2e9df7;
@@ -15,7 +15,6 @@ body .bbbootstrap {
 }
 
 #projectName {
-  /* background-color: black; */
   text-align: center;
   font-size: 50px;
 }
@@ -128,7 +127,6 @@ input[type="submit"] {
   background-repeat: repeat-x;
   background-color: #38a2f7;
   background-image: -webkit-linear-gradient(#38a2f7, #2498f7);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#38a2f7), to(#2498f7));
   background-image: -o-linear-gradient(#38a2f7, #2498f7);
   background-image: linear-gradient(#38a2f7, #2498f7)
 }
@@ -140,8 +138,20 @@ input[type="submit"] {
 }
 
 #Form_Go {
-  /* background-color: white; */
   margin: auto;
   justify-content: center;
-  /* width: 50%; */
 }
+
+#UrCasaText {
+  text-align: center;
+  justify-content: center;
+  
+}
+
+/* codepen goes here */
+.search-box-input{
+	width: 500px;
+	font-size: 1em;
+	color: #fff;
+}
+
