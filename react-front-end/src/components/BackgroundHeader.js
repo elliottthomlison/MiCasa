@@ -4,18 +4,16 @@ import './BackgroundHeader.css'
 function BackgroundHeader() {
   return (
     <div class="bbbootstrap">
-      <div class="container">
-        <p id="projectName">
-          MiCasa
-        </p>
-        <p id="projectSlogan">
-          Let's find UrCasa so that you can say MiCasa
-        </p>
-      <form />
-      <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
-      <input type="text" id="Form_Search" value="" placeholder="Search for your best result in our community" role="searchbox" class="InputBox " autocomplete="off" />
-      {/* <input type="submit" id="Form_Go" class="Button" value="GO" /> */}
-      </div>
+  <div class="container">
+  	<h1>ANIMATED SEARCH BOX</h1>
+		<div class="search-box">
+			<input type="text" class="search-box-input" placeholder="What are you looking for ?"/>
+			<button class="search-box-btn">
+				<i class="search-box-icon material-icons">search</i>
+			</button>
+		</div>
+  </div>
+
   </div>
   )
 }
