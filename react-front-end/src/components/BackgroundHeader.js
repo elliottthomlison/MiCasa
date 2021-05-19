@@ -5,16 +5,12 @@ function BackgroundHeader() {
   return (
     <div class="bbbootstrap">
       <div class="container">
-        <p id="projectName">
-          MiCasa
-        </p>
-        <p id="projectSlogan">
-          Let's find UrCasa so that you can say MiCasa
-        </p>
-      <form />
-      <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
-      <input type="text" id="Form_Search" value="" placeholder="Search for your best result in our community" role="searchbox" class="InputBox " autocomplete="off" />
-      {/* <input type="submit" id="Form_Go" class="Button" value="GO" /> */}
+  	<h1 id="header" >Let's find UrCasa so that you can say <em>MiCasa!</em></h1>
+		<div class="search-box">
+			<input type="text" class="search-box-input" placeholder="What are you looking for ?"/>
+			    <button class="search-box-btn">
+          <a href='./map' class='myButton'><font size="20px" color="#FF7A59"><button>SEARCH</button></font></a></button>
+		    </div>     
       </div>
   </div>
   )
