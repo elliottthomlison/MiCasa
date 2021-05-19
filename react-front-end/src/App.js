@@ -24,6 +24,7 @@ class App extends Component {
       super();
       this.state = {
         name: "React",
+        property: [],
         isUserAuthenticated: true
       };
     };

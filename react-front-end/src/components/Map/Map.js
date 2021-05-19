@@ -5,6 +5,7 @@ import axios from "axios";
 
  import LocationMarker from './LocationMarker'
  import Infobox from "./Infobox";
+
  //import "./map.css";
 
 const Map = ({ center, zoom }) => {
@@ -24,14 +25,15 @@ const Map = ({ center, zoom }) => {
   
 
   const locationMarkers = properties.map((property) => {
-    // console.log('property', property);
-    // console.log('type of', typeof property.latitude);
     return (<LocationMarker lat={property.latitude} lng={property.longitude} info={property}/>)
   })
 
   const infoboxes = properties.map((property) => {
     return (<Infobox lat={property.latitude} lng={property.longitude}/>)
   })
+
+ 
+
   // Get data through useEffect promise request. 
   return (
     // Important! Always set the container height explicitly
