@@ -6,7 +6,7 @@ import axios from "axios";
  import LocationMarker from './LocationMarker'
  import Infobox from "./Infobox";
 
- //import "./map.css";
+ import "./map.css";
 
 const Map = ({ center, zoom }) => {
 
@@ -37,10 +37,7 @@ const Map = ({ center, zoom }) => {
   // Get data through useEffect promise request. 
   return (
     // Important! Always set the container height explicitly
-    <div style={{ height: '80vh',
-     width: '200vh',
-
-     }}>
+    <div className='map'>
       <GoogleMapReact
         bootstrapURLKeys={{ key: 'AIzaSyDxCqEWrgL6SHTrAJx22WSlr3Nl3owXo-c'}}
         defaultCenter={ center }
@@ -60,10 +57,10 @@ const Map = ({ center, zoom }) => {
 }
   Map.defaultProps = {
     center: {
-      lat: 49.22781,
-      lng: -123.110733
+      lat: 49.231084,
+      lng: -123.133478
     },
-    zoom: 15
+    zoom: 16
   };
 
 

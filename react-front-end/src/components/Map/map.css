@@ -1,7 +1,8 @@
-#map {
-  width: 80vw;
-  height: 80vw;
-  position: relative
+.map {
+  width: 200vh;
+  height: 100vh;
+  position: relative;
+  border: 3px solid green;
   
 }
 

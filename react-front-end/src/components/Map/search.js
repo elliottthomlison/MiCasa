@@ -14,4 +14,4 @@
           <SearchBox searchChange={this.onSearchChange}/>
         </div>
       );
-      }
+      
