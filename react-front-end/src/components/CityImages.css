@@ -49,7 +49,7 @@
 
 #mid-text {
   text-align: center;
-  font-size: 30px;
+  font-size: 40px;
   margin-bottom: 100px;
   color: black;
 }
@@ -58,7 +58,7 @@
   z-index: 100;
   position: absolute;
   color: white;
-  font-size: 15fr;
+  font-size: 20fr;
   font-weight: bold;
  
 }

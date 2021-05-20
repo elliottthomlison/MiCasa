@@ -5,7 +5,7 @@ import "./map.css";
 const Infobox= ({ info }) => {
   return (
  <div className="informations">
-    <img src={info.img_url}alt="house1.jpg" style={{width: '150px', height: '200px'}}/>
+    <img src={info.img_url}alt="house1.jpg" style={{width: '200px', height: '200px'}}/>
   <p>{info.address}</p>
   <p>{info.bedroomno}</p>
   <p>{info.bathroomno}</p>
