@@ -8,22 +8,28 @@ it will push notify the user providing the listing details and can chat with the
 
 ## Video Walkthrough of MiCasa
 
-(https://www.youtube.com/watch?v=ltRnT-FhmcY)
-(https://www.youtube.com/watch?v=u5RIqlsm_eg)
+- (https://www.youtube.com/watch?v=ltRnT-FhmcY)
+
+- (https://www.youtube.com/watch?v=u5RIqlsm_eg)
 
 
 ## Screenshots
 
 ![Register Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/registerpage.png?raw=true)
+
 ![Main Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true)
+
 ![Home Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/mainpage.png?raw=true)
+
 ![Map Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/mappage.png?raw=true)
 
 
 ## Contributors:
-Ban Qaddoori (https://github.com/Alshaikhly/)
-Leighton Chien (https://github.com/leightonchien)
-Elliott Thomlison (https://github.com/elliottthomlison)
+- Ban Qaddoori (https://github.com/Alshaikhly/)
+
+- Leighton Chien (https://github.com/leightonchien)
+
+- Elliott Thomlison (https://github.com/elliottthomlison)
 
 
 ## Initial Setup
