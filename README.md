@@ -15,17 +15,19 @@ it will push notify the user providing the listing details and can chat with the
 
 ## Screenshots
 
-![Register Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/registerpage.png?raw=true)
-
 ![Main Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true)
 
+![Register Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/registerpage.png?raw=true)
+
 ![Home Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/mainpage.png?raw=true)
+
+
 
 ![Map Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/mappage.png?raw=true)
 
 
 ## Contributors:
-- Ban Qaddoori (https://github.com/Alshaikhly/)
+- Ban Qaddoori (https://github.com/ban-mazin)
 
 - Leighton Chien (https://github.com/leightonchien)
 
