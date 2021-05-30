@@ -1,10 +1,6 @@
 # MiCasa
 
-MiCasa is a mobile app that helps renters to find available units without having to constantly check rental websites.
-An user can simply set preferences to what they look for in a rental, and forget it.
-Walk around the neighbourhood, if any listings match your preferences, 
-it will push notify the user providing the listing details and can chat with the owner directly.
-
+MiCasa is a mobile app that helps individuals looking to rent to find available units without having to constantly check rental websites. A user can simply set preferences to what they look for in a rental, and forget about it. When they pass an available location that fits their preferences they will receive a notification to their phone whereby they can speak with the owner directly. 
 
 ## Video Walkthrough of MiCasa
 
@@ -12,17 +8,19 @@ it will push notify the user providing the listing details and can chat with the
 
 - (https://www.youtube.com/watch?v=u5RIqlsm_eg)
 
-
 ## Screenshots
+<!-- 
+Solarized dark             |  Solarized Ocean         | 
+:-------------------------:|:-------------------------:
+![](https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true)  |  ![](https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true)  -->
 
-<img align="left" src="https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true" alt="Paris" class="center">
-<img align="right" src="https://github.com/elliottthomlison/MiCasa/blob/master/images/registerpage.png?raw=true" alt="Paris" class="center">
-
-<br>
-
-![Home Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/mainpage.png?raw=true)
-
-![Map Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/mappage.png?raw=true)
+<p float="left">
+  <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true" class="center" width=237px height=465px/>
+  <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/registerpage.png?raw=true" class="center" width=237px height=465px/>
+  <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/preferecespage.png?raw=true" class="center" width=237px height=465px/>
+  <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/messagingImage.jpg?raw=true" class="center" width=237px height=465px/>
+<img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/mainpage.png?raw=true" width=962px height=500px />
+<img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/mappage.png?raw=true" width=962px height=500px />
 
 
 ## Contributors:
