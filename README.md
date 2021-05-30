@@ -15,13 +15,12 @@ it will push notify the user providing the listing details and can chat with the
 
 ## Screenshots
 
-![Main Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true)
+<img align="left" src="https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true" alt="Paris" class="center">
+<img align="right" src="https://github.com/elliottthomlison/MiCasa/blob/master/images/registerpage.png?raw=true" alt="Paris" class="center">
 
-![Register Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/registerpage.png?raw=true)
+<br>
 
 ![Home Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/mainpage.png?raw=true)
-
-
 
 ![Map Page](https://github.com/elliottthomlison/MiCasa/blob/master/images/mappage.png?raw=true)
 
