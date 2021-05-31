@@ -9,11 +9,6 @@ MiCasa is a mobile app that helps individuals looking to rent to find available 
 - (https://www.youtube.com/watch?v=u5RIqlsm_eg)
 
 ## Screenshots
-<!-- 
-Solarized dark             |  Solarized Ocean         | 
-:-------------------------:|:-------------------------:
-![](https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true)  |  ![](https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true)  -->
-
 <p float="left">
   <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true" class="center" width=237px height=465px/>
   <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/registerpage.png?raw=true" class="center" width=237px height=465px/>
@@ -67,20 +62,18 @@ http://localhost:3000/
 
 
 ## Dependencies
-- axios: ^0.18.1,
-- bcrypt: ^5.0.1,
-- body-parser: ^1.18.3,
-- cookie-parser: ~1.4.4,
-- cookie-session: ^1.4.0,
-- debug: ~2.6.9,
-- express: ~4.16.1,
-- morgan: ~1.9.1,
-- pg: ^8.5.1,
-- pg-native: ^3.0.0,
-- yelp-fusion: ^3.0.0
-- material-ui/icons: ^4.11.2
-- bootstrap": ^5.0.0
-- google-map-react": ^2.1.9
-- react-google-maps/api: ^2.1.1
-
-
+- Axios: ^0.18.1,
+- BCrypt: ^5.0.1,
+- Body-Parser: ^1.18.3,
+- Cookie-Parser: ~1.4.4,
+- Cookie-Session: ^1.4.0,
+- Debug: ~2.6.9,
+- Express: ~4.16.1,
+- Morgan: ~1.9.1,
+- PG: ^8.5.1,
+- PG-Native: ^3.0.0,
+- Yelp-Fusion: ^3.0.0
+- Material-ui/icons: ^4.11.2
+- Bootstrap": ^5.0.0
+- Google-Map-React": ^2.1.9
+- React-Google-Maps/api: ^2.1.1
