@@ -2,6 +2,8 @@
 
 MiCasa is a mobile app that helps individuals looking to rent to find available units without having to constantly check rental websites. A user can simply set preferences to what they look for in a rental, and forget about it. When they pass an available location that fits their preferences they will receive a notification to their phone whereby they can speak with the owner directly. 
 
+MiCasa was built using the PERN stack (Postgre, Express, React, and NodeJS). 
+
 ## Video Walkthrough of MiCasa
 
 - (https://www.youtube.com/watch?v=ltRnT-FhmcY)
