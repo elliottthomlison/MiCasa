@@ -9,14 +9,15 @@ MiCasa is a mobile app that helps individuals looking to rent to find available 
 - (https://www.youtube.com/watch?v=u5RIqlsm_eg)
 
 ## Screenshots
-<p float="left">
+<p float="center">
   <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true" class="center" width=237px height=465px/>
   <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/registerpage.png?raw=true" class="center" width=237px height=465px/>
   <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/preferecespage.png?raw=true" class="center" width=237px height=465px/>
   <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/messagingImage.jpg?raw=true" class="center" width=237px height=465px/>
-<img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/mainpage.png?raw=true" width=962px height=500px />
-<img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/mappage.png?raw=true" width=962px height=500px />
-
+  
+  <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/mainpage.png?raw=true" width=962px height=500px />
+  <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/mappage.png?raw=true" width=962px height=500px />
+</p>
 
 ## Contributors:
 - Ban Qaddoori (https://github.com/ban-mazin)
