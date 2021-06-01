@@ -4,7 +4,7 @@ MiCasa is a mobile app that helps individuals looking to rent to find available 
 
 MiCasa was built using the PERN stack (Postgre, Express, React, and NodeJS). 
 
-## Video Walkthrough of MiCasa
+## Related Videos
 
 - (https://www.youtube.com/watch?v=ltRnT-FhmcY)
 
@@ -28,7 +28,6 @@ MiCasa was built using the PERN stack (Postgre, Express, React, and NodeJS).
 
 - Elliott Thomlison (https://github.com/elliottthomlison)
 
-
 ## Initial Setup
 To run the following project on your machine please follow the steps below:  
 ### Backend setup:
@@ -38,8 +37,6 @@ You will need to use the same Google map API Key for the Frontend setup as well 
 ### Frontend setup:
 3. Create an <code> .env </code> in the main frontend directory where you'll be providing the required API Keys. 
 4. Take the **Google map**  API key you obtained earlier for the backend setup and put this in the .env file. 
-
-
 
 ## Getting Started 
 1. Install all frontend dependencies while in the main frontend directory.
@@ -62,7 +59,6 @@ npm start
 ```
 http://localhost:3000/ 
 ```
-
 
 ## Dependencies
 - Axios: ^0.18.1,
