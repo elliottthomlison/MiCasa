@@ -12,7 +12,6 @@ MiCasa was built using the PERN stack (PostgreSQL, Express, React, and NodeJS). 
 ## Final Product 
 <p float="center">
   <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/firstpage.png?raw=true" class="center" width=237px height=465px/>
-  <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/registerpage.png?raw=true" class="center" width=237px height=465px/>
   <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/preferecespage.png?raw=true" class="center" width=237px height=465px/>
   <img src="https://github.com/elliottthomlison/MiCasa/blob/master/images/messagingImage.jpg?raw=true" class="center" width=237px height=465px/>
   
