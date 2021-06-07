@@ -1,7 +1,7 @@
 # MiCasa
 
 MiCasa is a mobile app that helps individuals looking to rent to find available units without having to constantly check rental websites. It was is final project that was built during the Lighthouse Labs Web Development Bootcamp. A user sets their preferences and what they're looking for in the desired property, then once they pass that location their receive a cellular notification. 
-MiCasa was built using the PERN stack (Postgre, Express, React, and NodeJS). It aims to help the average person find an appropriate property more easily. This is achieved through the user simply setting the aforementioned preferences to what they look for in a rental, and then passively receiving pings when such properties are found. There were backend specific difficulties during the creation of the app, yet the frontend presented challenges and learning experiences as well.
+MiCasa was built using the PERN stack (PostgreSQL, Express, React, and NodeJS). It aims to help the average person find an appropriate property more easily. This is achieved through the user simply setting the aforementioned preferences to what they look for in a rental, and then passively receiving pings when such properties are found. There were backend specific difficulties during the creation of the app, yet the frontend presented challenges and learning experiences as well.
 
 ## Related Videos
 
